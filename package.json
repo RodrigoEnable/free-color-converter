@@ -1,0 +1,12 @@
+{
+  "name": "free-color-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/script"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
